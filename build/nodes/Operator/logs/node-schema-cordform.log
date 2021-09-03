@@ -1,0 +1,14 @@
+
+   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         How did the Java programmer get rich?
+/ /___  /_/ / /  / /_/ / /_/ /          They inherited a factory.
+\____/     /_/   \__,_/\__,_/
+
+--- Corda Open Source 4.8 (d7a710c) -------------------------------------------------------------
+
+
+Logs can be found in                    : /home/brain/workspace/samples-kotlin/Tokens/tokentofriend/build/nodes/Operator/logs
+[quasar] WARNING: Method not found in class - assuming suspendable: com/r3/corda/lib/tokens/testing/states/House#getValuation()Lnet/corda/core/contracts/Amount; (at TestFlows.kt:com/r3/corda/lib/tokens/workflows/internal/testflows/DvPFlow#call)
+Running database schema migration scripts ...
+Database migration scripts for core and app schemas complete. There are no outstanding database changes.
